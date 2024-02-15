@@ -12,3 +12,5 @@ So, join us as we embark on this profound exploration of life's complexities, an
 
 
 If you would like to comit any other cool functions or classes to this project feel free. You can also add some of the life examples making it more robust.
+
+The class is just a standalone PHP class so You can use it in any of your projects or play with it on a machine with PHP installed.
