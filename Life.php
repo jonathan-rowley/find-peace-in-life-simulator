@@ -106,5 +106,5 @@ class Life
 }
 
 // Example usage:
-$life = new Life();
-$life->findPeace();
+$me = new Life();
+$me->findPeace();
